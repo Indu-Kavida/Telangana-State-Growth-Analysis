@@ -66,6 +66,7 @@ District-level capital concentration
 ## 🔍 Key Insights
 
 Stamp revenue increased significantly across urban districts.
+
 Medchal-Malkajgiri and Ranga Reddy show strong economic concentration.
 EV adoption shows exponential growth trend.
 Industrial investments strongly correlate with transport growth.
