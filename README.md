@@ -2,19 +2,19 @@
 
 ## Project Overview
 This project analyzes the overall economic growth of Telangana state using three major government departments:
-Stamp Registration
-Transportation
-TS-IPASS (Industrial Investments)
-The objective was to identify revenue trends, vehicle growth patterns, sector-wise investments, and district-level performance between FY 2019 – FY 2022.
+➻Stamp Registration
+➻Transportation
+➻TS-IPASS (Industrial Investments)
+➻The objective was to identify revenue trends, vehicle growth patterns, sector-wise investments, and district-level performance between FY 2019 – FY 2022.
 
 ## 🎯 Business Problem
-The Telangana government wants to:
-Understand revenue growth across districts
-Identify high-performing and low-performing districts
-Analyze sector-wise investments
-Study vehicle sales trends
-Measure overall economic development
-Identify correlation between investments, transport growth, and stamp revenue
+➻The Telangana government wants to:
+➻Understand revenue growth across districts
+➻Identify high-performing and low-performing districts
+➻Analyze sector-wise investments
+➻Study vehicle sales trends
+➻Measure overall economic development
+➻Identify correlation between investments, transport growth, and stamp revenue
 
 ## 📊 Dashboard Sections
 1️⃣ Overview Page
@@ -66,7 +66,6 @@ District-level capital concentration
 ## 🔍 Key Insights
 
 Stamp revenue increased significantly across urban districts.
-
 Medchal-Malkajgiri and Ranga Reddy show strong economic concentration.
 EV adoption shows exponential growth trend.
 Industrial investments strongly correlate with transport growth.
